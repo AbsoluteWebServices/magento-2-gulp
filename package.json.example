@@ -6,7 +6,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git://github.com/bobmotor/magento-2-gulp.git"
+        "url": "git://github.com/AbsoluteWebServices/magento-2-gulp.git"
     },
     "devDependencies": {
         "@babel/core": "^7.13.10",

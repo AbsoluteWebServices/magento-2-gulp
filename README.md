@@ -4,7 +4,7 @@
 
 ### Check for Node and NPM
 
-Make sure that you've installed Node and NPM before attempting to install gulp (supports gulp `4.x.x`). For gulp `3.x.x` use [~1.4.0](https://github.com/bobmotor/magento-2-gulp/tree/v1.4.1) version.
+Make sure that you've installed Node and NPM before attempting to install gulp (supports gulp `4.x.x`). For gulp `3.x.x` use [~1.4.0](https://github.com/AbsoluteWebServices/magento-2-gulp/tree/v1.4.1) version.
 ```
 $ node -v
 ```
@@ -27,7 +27,7 @@ Add repository's path to the `composer.json`
 "repositories": [
     {
         "type": "github",
-        "url": "https://github.com/bobmotor/magento-2-gulp"
+        "url": "https://github.com/AbsoluteWebServices/magento-2-gulp"
     }
 ],
 ```
@@ -35,7 +35,7 @@ Add repository's path to the `composer.json`
 Run
 
 ```
-$ composer require --dev bobmotor/magento-2-gulp
+$ composer require --dev absolutewebservices/magento-2-gulp
 ```
 
 Rename the following files in your project root directory

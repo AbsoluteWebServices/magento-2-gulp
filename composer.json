@@ -1,9 +1,9 @@
 {
-    "name": "bobmotor/magento-2-gulp",
+    "name": "absolutewebservices/magento-2-gulp",
     "type": "magento2-component",
     "description": "Magento 2 gulp configuration",
     "license": "MIT",
-    "homepage": "https://github.com/bobmotor/magento-2-gulp",
+    "homepage": "https://github.com/AbsoluteWebServices/magento-2-gulp",
     "authors": [
         {
             "name": "Volodymyr Lisniak <thebobmotor@gmail.com>"
